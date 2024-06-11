@@ -1,0 +1,123 @@
+.background-image {
+    position: relative;
+    height: 800px; /* ajuste a altura conforme necessário */
+    background-image: url('img/Cachorro_Fundo.jpg'); /* ajuste o caminho da imagem conforme necessário */
+    background-size: cover;
+    background-position: center;
+  }
+  .overlay {
+    position: absolute;
+    bottom: 50px;
+    right: 30px;
+    color: #000000; /* cor do texto */
+    padding: 20px;
+
+  }
+
+  .textoprincipal
+  {
+    padding-top: 100px;
+    padding-left: 100px; 
+    padding-bottom: 50px;
+    padding-right: 100px;
+    text-align: justify;
+  }
+
+  .nossos_servicos
+  {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .titulo1 
+  {
+    font-size: 60px;
+
+  }
+ 
+  .titulo2 
+  {
+    font-size: 20px;
+  }
+
+  .textoheader
+  {
+    font-size: 20px;
+  }
+
+.appointment-section
+    {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+.contact-section    
+    {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+.deixe_infos 
+{
+ padding-bottom: 30px;
+ position: center;
+}
+
+.pequena_apresentacao 
+{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+span {
+    font-size: 15px;
+}
+
+.banho-produtos
+{
+padding-top: 20px;
+}
+
+.nossos_servicos_produtos {
+  padding-top: 100px;
+  padding-bottom: 20x;
+  text-align: center;
+}
+
+.banho-tosa-texto-banho
+
+{
+  text-align: justify;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 40px;
+}
+
+.banho-tosa-texto-tosa
+
+{
+  text-align: justify;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+.banho-tosa-imagem
+
+{
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  ;
+}
