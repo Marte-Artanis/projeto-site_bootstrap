@@ -92,32 +92,21 @@ padding-top: 20px;
   text-align: center;
 }
 
-.banho-tosa-texto-banho
-
-{
-  text-align: justify;
-  padding-left: 50px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-right: 40px;
-}
-
-.banho-tosa-texto-tosa
+.banho-tosa-texto-banho, .banho-tosa-texto-tosa
 
 {
   text-align: justify;
   padding-left: 20px;
-  padding-top: 20px;
   padding-bottom: 20px;
   padding-right: 20px;
 }
 
-.banho-tosa-imagem
-
+.produto-titulo-tosa, .produto-titulo-banho
 {
-  padding-left: 20px;
   padding-top: 20px;
+  padding-left: 20px;
   padding-bottom: 20px;
   padding-right: 20px;
-  ;
 }
+
+
