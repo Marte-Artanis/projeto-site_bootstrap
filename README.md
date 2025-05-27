@@ -8,6 +8,10 @@ Este é um projeto simples de site responsivo utilizando o framework [Bootstrap]
 - **CSS3**
 - **Bootstrap 5**
 
+## 🚀 Deploy
+
+Você pode ver o site online aqui: [https://happypet-kgu4.onrender.com/contato.html](https://happypet-kgu4.onrender.com/index.html)
+
 ## 📋 Funcionalidades
 
 - Layout responsivo para mobile, tablet e desktop
