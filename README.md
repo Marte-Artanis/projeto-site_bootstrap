@@ -14,7 +14,6 @@ Você pode ver o site online aqui: [https://happypet-kgu4.onrender.com/contato.h
 
 ## 📋 Funcionalidades
 
-- Layout responsivo para mobile, tablet e desktop
 - Barra de navegação fixa
 - Seções organizadas (Home, Sobre, Contato)
 - Uso de ícones, fontes e componentes do Bootstrap
